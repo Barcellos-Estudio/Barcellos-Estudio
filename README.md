@@ -14,7 +14,7 @@
  
 <br>
  
-### Me siga nas redes abaixo e conheça um pouco mais sobre nosso trabalho!
+### Nos siga nas redes abaixo e conheça um pouco mais sobre nosso trabalho!
  
 <div> 
   <a href="https://www.instagram.com/barcellosdesign/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
